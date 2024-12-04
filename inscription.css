@@ -63,4 +63,8 @@
     height: 50%;
     margin:50% 0;
     color:white ;
+
+
+    box-sizing: border-box;
+    
 }
